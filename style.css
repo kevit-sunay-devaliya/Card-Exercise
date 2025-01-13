@@ -13,7 +13,7 @@ body {
   width: 70%;
   max-width: 330px;
   border-radius: 14px;
-  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.932);
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.932);
   overflow: hidden;
   display: flex;
   flex-direction: column;
